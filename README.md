@@ -1,6 +1,6 @@
 # Spar test task
 
-tesk task for Spar
+tesk task for 'Spar'
 
 **About project:** Test task for 'Spar' to demonstrate skills: A UI with both List and Grid views, including functionality to add items to a cart.
 
